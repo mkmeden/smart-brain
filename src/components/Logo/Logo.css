@@ -1,0 +1,9 @@
+
+.config{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.config>img{
+    padding-left: 20px;
+}
